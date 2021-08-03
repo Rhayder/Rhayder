@@ -1,36 +1,5 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Rhayder 
-rafaballerini
-/
-rafaballerini
-39
-3961.8k
-Code
-Issues
-1
-Pull requests
-3
-Actions
-Projects
-Wiki
-Security
-Insights
-rafaballerini/.github/workflows/cobrinha.yml
-@rafaballerini
-rafaballerini Update cobrinha.yml
-Latest commit d2470b3 on 29 May
- History
- 1 contributor
-26 lines (22 sloc)  589 Bytes
-  
-name: Generate Datas
+ name: Generate Datas
 
 on:
   schedule: # execute every 12 hours
@@ -56,16 +25,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
