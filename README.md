@@ -1,8 +1,8 @@
 ### Olá eu sou o Heyder Barbosa 👋
 
 - 🔭 Hoje Trabalho com Back-end .Net MVC 5
-- 🌱 Estou estudando .Net core 5 com Angular 11 e Python
-- 🤔 Estou procurando ajuda sobre análise de dados e python
+- 🌱 Estou estudando .Net core 5 com Angular 11
+- 🤔 Estou procurando ajuda sobre sobre back para .net core(aprofundar) e chat bots em C#
 - 📫 Contate me: heydergalo@gmail.com
 - 😄 Ele/dele
 
