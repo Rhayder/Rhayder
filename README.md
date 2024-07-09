@@ -1,9 +1,10 @@
 ### Olá eu sou o Heyder Barbosa 👋
 
-- 🔭 Hoje Trabalho com Back-end C#
-- 🌱 Estou estudando .Net 8 e Angular
-- 📫 Contate me: heydergalo@gmail.com
-- 😄 Ele/dele
+- 🔭 Sou Analista de sistemas a 6 anos e quero me especializar em C#;
+- 🌱 Atualmente iniciei estudos .Net 8 e em Angular para ter uma base de front end;
+- 🔭 Quero aprender em breve Docker e Cloud(Azure);
+- 📫 Contate me: heydergalo@gmail.com;
+- 😄 Ele/dele;
 
  <div>
   <a href="https://github.com/Rhayder">
