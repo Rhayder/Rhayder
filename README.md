@@ -1,7 +1,7 @@
 ### Olá eu sou o Heyder Barbosa 👋
 
 - 🔭 Hoje Trabalho com Back-end C#
-- 🌱 Estou estudando .Net core 5 e Angular
+- 🌱 Estou estudando .Net 8 e Angular
 - 📫 Contate me: heydergalo@gmail.com
 - 😄 Ele/dele
 
