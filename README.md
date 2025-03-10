@@ -1,9 +1,7 @@
 ### Olá eu sou o Heyder Barbosa 👋
 
 - 🔭 Sou Analista de sistemas a 6 anos e quero me especializar em C#;
-- 🌱 Atualmente iniciei estudos .Net 8 e em Angular para ter uma base de front end;
-- 🔭 Quero aprender em breve Docker e Cloud(Azure);
-- 📫 Contate me: heydergalo@gmail.com;
+- 📫 Contate me: heyderbarbosa07@gmail.com;
 - 😄 Ele/dele;
 
  <div>
@@ -25,8 +23,6 @@
 #
 <div>  
   <a href="https://www.instagram.com/barbosa_heyder/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:heydergalo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/heyder-barbosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
- 
-
+  <a href = "mailto:heyderbarbosa07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/heyder-barbosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
