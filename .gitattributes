@@ -1,0 +1,9 @@
+# Forçar C# como linguagem principal
+*.cs linguist-detectable=true
+
+# Ignorar linguagens que não refletem sua stack principal
+*.py linguist-detectable=false
+*.ipynb linguist-detectable=false
+*.rb linguist-detectable=false
+*.sh linguist-detectable=false
+*.ps1 linguist-detectable=false
