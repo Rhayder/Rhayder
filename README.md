@@ -3,7 +3,7 @@
 💻 Desenvolvedor Backend com **6 anos de experiência** em C#  
 🌐 Experiência sólida com **.NET Core, ASP.NET, Windows Forms, WPF e SQL Server**  
 🧰 Automatizador com **Selenium e AutoIt** | Conhecimento em **GitHub, TFS, Angular (básico)**  
-☁️ Atualmente estudando **Azure, Clean Architecture, Microserviços e Docker**
+☁️ Atualmente estudando **Python, NextJs e Clean Architecture e brincando com Reac Native nas horas vagas**
 
 ---
 
