@@ -9,13 +9,15 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 ---
 
@@ -32,6 +34,10 @@ Ferramenta utilitária para limpeza de arquivos de disco, útil em ambientes cor
 
 #### 🔹 [WebMySQL](https://github.com/Rhayder/WebMySQL)
 Aplicação ASP.NET Core com MySQL, CRUD completo e integração front/backend. Ideal para testes e aprendizado de conectividade com MySQL.
+
+#### 🔹 [Tarefas API](https://github.com/Rhayder/tarefas-api)
+Este projeto é uma API moderna e escalável desenvolvida com Python + FastAPI, criada para gerenciar tarefas de forma simples, segura e organizada.
+O objetivo é estudar boas práticas de desenvolvimento backend com Python utilizando autenticação JWT, camadas bem definidas, banco de dados relacional e documentação automática.
 
 ---
 
