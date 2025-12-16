@@ -3,7 +3,7 @@
 💻 Desenvolvedor Backend com **6 anos de experiência** em C#  
 🌐 Experiência sólida com **.NET Core, ASP.NET, Windows Forms, WPF e SQL Server**  
 🧰 Automatizador com **Selenium e AutoIt** | Conhecimento em **GitHub, TFS, Angular (básico)**  
-☁️ Atualmente estudando **Python, NextJs e Clean Architecture e brincando com Reac Native nas horas vagas**
+☁️ Atualmente estudando **Javascript e Clean Architecture e brincando com React Native nas horas vagas**
 
 ---
 
@@ -34,10 +34,6 @@ Ferramenta utilitária para limpeza de arquivos de disco, útil em ambientes cor
 
 #### 🔹 [WebMySQL](https://github.com/Rhayder/WebMySQL)
 Aplicação ASP.NET Core com MySQL, CRUD completo e integração front/backend. Ideal para testes e aprendizado de conectividade com MySQL.
-
-#### 🔹 [Tarefas API](https://github.com/Rhayder/tarefas-api)
-Este projeto é uma API moderna e escalável desenvolvida com Python + FastAPI, criada para gerenciar tarefas de forma simples, segura e organizada.
-O objetivo é estudar boas práticas de desenvolvimento backend com Python utilizando autenticação JWT, camadas bem definidas, banco de dados relacional e documentação automática.
 
 ---
 
