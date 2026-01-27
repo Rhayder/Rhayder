@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou o Heyder
 
-💻 Desenvolvedor Backend com **6 anos de experiência** em C#  
+💻 Desenvolvedor Backend com mais de **6 anos de experiência** em C#  
 🌐 Experiência sólida com **.NET Core, ASP.NET, Windows Forms, WPF e SQL Server**  
 🧰 Automatizador com **Selenium e AutoIt** | Conhecimento em **GitHub, TFS, Angular (básico)**  
 ☁️ Atualmente estudando **Javascript, Clean Architecture**
